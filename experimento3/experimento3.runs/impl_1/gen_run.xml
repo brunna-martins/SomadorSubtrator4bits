@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1673954852">
+  <File Type="BITSTR-BMM" Name="soma_sub4_bd.bmm"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="soma_sub4_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="soma_sub4_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR" Name="soma_sub4_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="soma_sub4.tcl"/>
+  <File Type="OPT-TIMING" Name="soma_sub4_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="soma_sub4_opt.dcp"/>
+  <File Type="ROUTE-PWR-SUM" Name="soma_sub4_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="soma_sub4_reports.tcl"/>
+  <File Type="OPT-DRC" Name="soma_sub4_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="soma_sub4.hwdef"/>
+  <File Type="PWROPT-DCP" Name="soma_sub4_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="soma_sub4_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="soma_sub4_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="soma_sub4_placed.dcp"/>
+  <File Type="PLACE-IO" Name="soma_sub4_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="soma_sub4_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="soma_sub4_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="soma_sub4_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="soma_sub4_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="soma_sub4_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="soma_sub4_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-TIMING" Name="soma_sub4_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="soma_sub4_postplace_pwropt.dcp"/>
+  <File Type="BG-BIN" Name="soma_sub4.bin"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="soma_sub4_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="soma_sub4_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="soma_sub4_drc_physopted.rpt"/>
+  <File Type="BITSTR-MSK" Name="soma_sub4.msk"/>
+  <File Type="PHYSOPT-TIMING" Name="soma_sub4_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="soma_sub4_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="soma_sub4_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="soma_sub4_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="soma_sub4_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="soma_sub4_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="soma_sub4_drc_routed.rpx"/>
+  <File Type="BITSTR-MMI" Name="soma_sub4.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="soma_sub4_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="soma_sub4_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="soma_sub4_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="soma_sub4_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="soma_sub4_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="soma_sub4_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="soma_sub4_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="soma_sub4_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="soma_sub4_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="soma_sub4_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="soma_sub4_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="soma_sub4_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="soma_sub4_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="soma_sub4_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="soma_sub4_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="soma_sub4_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="soma_sub4_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="soma_sub4_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="soma_sub4_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="soma_sub4_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="soma_sub4_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="soma_sub4.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="soma_sub4_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-RBT" Name="soma_sub4.rbt"/>
+  <File Type="BITSTR-NKY" Name="soma_sub4.nky"/>
+  <File Type="PDI-FILE" Name="soma_sub4.pdi"/>
+  <File Type="RCFI_FILE" Name="soma_sub4.rcfi"/>
+  <File Type="CFI_FILE" Name="soma_sub4.cfi"/>
+  <File Type="RNPI_FILE" Name="soma_sub4.rnpi"/>
+  <File Type="NPI_FILE" Name="soma_sub4.npi"/>
+  <File Type="RBD_FILE" Name="soma_sub4.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="soma_sub4.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="soma_sub4.sysdef"/>
+  <File Type="BG-BGN" Name="soma_sub4.bgn"/>
+  <File Type="BG-DRC" Name="soma_sub4.drc"/>
+  <File Type="RDI-RDI" Name="soma_sub4.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/and1.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/and4.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/comp1.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/detector_overflow.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/or1.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/or4.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/soma1.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/soma4.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/soma_sub4.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="soma_sub4"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/Basys3_Master.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design" EnableStepBool="1"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
